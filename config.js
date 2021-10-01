@@ -2,11 +2,11 @@
 
 //add your github username and Hactoberfest Repository for showing contributions ! 
 
-const orgname = "Your Organisation";
-const message ="Your Tagline !"
+const orgname = "CodeWithGauri";
+const message ="Let's Crack it!"
 const logo_url = 'img/github.png';  //your logo url  -> img/filename.extension
-const github_username ="github"   //your username
-const github_reponame = "rest-api-description"; //your reponame
-const linkedin = "mayukh-pankaj"    // your linkedin Username
-const instagram ="may.code"     //your Insta Id
-const facebook = "maycode"      //your Insta id
+const github_username ="codewithguri"   //your username
+const github_reponame = "Webdev_Hacktober"; //your reponame
+const linkedin = "gaurav-pandey-a5b884131/"    // your linkedin Username
+const instagram ="codewithgauri"     //your Insta Id
+const facebook = "codewithgauri"      //your Insta id
